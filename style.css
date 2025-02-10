@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: black;
+    background-color: rgb(179, 141, 214);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 10px #8800f7;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
