@@ -11,6 +11,9 @@ h1{
 p{
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
 }
 a{
     font-family: 'Times New Roman', Times, serif;
